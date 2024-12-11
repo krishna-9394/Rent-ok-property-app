@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81294765573",
+    "project_id": "rental-income-management-app",
+    "storage_bucket": "rental-income-management-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81294765573:android:4d83e59cd1245b5b2ff66c",
+        "android_client_info": {
+          "package_name": "com.example.rental_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhRYkEkyNA5gz7hdzJeENfMWcLHs8iDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81294765573:android:c6e338c0703407f02ff66c",
+        "android_client_info": {
+          "package_name": "com.example.rental_income_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhRYkEkyNA5gz7hdzJeENfMWcLHs8iDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
